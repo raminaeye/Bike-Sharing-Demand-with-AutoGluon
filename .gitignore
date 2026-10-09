@@ -298,3 +298,7 @@
 *.AutogluonModels/*
 AutogluonModels/*
 ./AutogluonModels/*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
